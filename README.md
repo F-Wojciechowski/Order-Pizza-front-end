@@ -42,5 +42,7 @@ If you need help with your project, let me know!
 
 ## Demo
 
-Insert gif or link to demo
+https://github.com/F-Wojciechowski/Order-Pizza-front-end/blob/main/src/1.gif
+
+https://github.com/F-Wojciechowski/Order-Pizza-front-end/blob/main/src/2.gif
 
