@@ -35,12 +35,13 @@ In progress.
 ### 
 About technologies
 
-React i Redux są często wykorzystywane przy tworzeniu dużych projektów internetowych, takich jak portale społecznościowe czy sklepy internetowe. Material UI pozwala na szybkie tworzenie interfejsów użytkownika zgodnych z najnowszymi trendami w projektowaniu stron internetowych. Typescript ułatwia pracę programistom poprzez dodanie statycznego typowania oraz wielu innych funkcjonalności. React Router pozwala na łatwe nawigowanie między różnymi widokami w aplikacji
+React and Redux are often used in creating web projects, such as social networking sites or online stores. Material UI allows you to quickly create user interfaces that support the latest trends within websites. React Router allows you to navigate between services and views in your application
 
 If you need help with your project, let me know!
 
 
 ## Demo
+*Glitches are caused by a problem with the recording software
 ![](https://github.com/F-Wojciechowski/Order-Pizza-front-end/blob/main/src/1.gif)
 ![](https://github.com/F-Wojciechowski/Order-Pizza-front-end/blob/main/src/2.gif)
 
